@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joe Seymour (@joe-haemonetics)
+- 👋 Hi, I’m Joe Seymour (@hae-joseymour)
 - 👀 I’m interested in technology, healthcare, gadgets, home automation, networking, old cars, and all the codez.
 - 🌱 I’m currently learning lots of things. In particular, [Datascript](https://github.com/tonsky/datascript) and [Datalog](https://en.wikipedia.org/wiki/Datalog).
 - 💞️ I’m looking to collaborate on everything, let's work together.
